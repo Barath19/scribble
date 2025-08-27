@@ -1,6 +1,5 @@
-# Handwritten Note OCR API
-
-A Cloudflare Workers API that converts handwritten note images into structured JSON output using Google Gemini Vision API. Upload images of handwritten notes and receive organized data with extracted titles, content, categories, tags, dates, and more.
+# Scribble
+<img width="1019" height="573" alt="Screenshot 2025-08-27 at 23 16 03" src="https://github.com/user-attachments/assets/45ada029-94b9-4485-858e-383f60767af7" />
 
 ## Prerequisites
 

@@ -64,8 +64,6 @@ Set up your Google Gemini API key as a secret:
 wrangler secret put GOOGLE_GEMINI_API_KEY
 ```
 
-When prompted, enter your Google Gemini API key: `AIzaSyA4XsfhdyOXU8wYV8VCfxPgWYR61oFPuxE`
-
 ## Development
 
 Start the development server:
